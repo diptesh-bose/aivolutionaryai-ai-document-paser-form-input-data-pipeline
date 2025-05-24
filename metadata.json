@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Parser & Form Filler",
+  "description": "An application to upload documents (images or text), parse them using AI to extract key information, and pre-fill a data entry form. Users can review and edit the extracted data.",
+  "requestFramePermissions": []
+}
